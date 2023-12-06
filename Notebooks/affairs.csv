@@ -1,4 +1,4 @@
-number_of_affairs_last_year,is_male,age,years_married,has_children,religiousity_1to5,years_of_education,hollinshead_occupation,self_rating_of_marriage_1to5
+affair_count,is_male,age,years_married,have_kids,religiousness_1to5,years_of_education,hollingshead_occupation_code,marriage_rating_1to5
 0,1,37,10,0,3,18,7,4
 0,0,27,4,0,4,14,6,4
 0,0,32,15,1,1,12,1,4
