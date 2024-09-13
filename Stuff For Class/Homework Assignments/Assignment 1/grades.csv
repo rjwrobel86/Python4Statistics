@@ -15,7 +15,7 @@
 35,Sandra Jones,3.57,Chemistry
 90,Stephanie Stevenson,2.00,English
 43,Tamara Lowe,2.65,Biology
-57,Angela Oneill DDS,2.58,Spanish
+57,Angela Oneill ,2.58,Spanish
 16,Kari Estrada,3.75,Art
 39,Patrick Thomas,1.98,History
 89,Derrick Jones,1.38,Philosophy
@@ -42,7 +42,7 @@
 85,Martin Mason,2.18,English
 27,Kristy Gray,3.36,Biology
 74,Claudia Wall,1.25,Spanish
-51,James Tran MD,2.53,Art
+51,James Tran ,2.53,Art
 66,Christina Osborne,3.11,History
 59,Christina Irwin,1.79,Philosophy
 4,Eric Ellis,1.20,Mathematics
@@ -58,7 +58,7 @@
 87,Matthew Ortega,1.62,Theatre
 42,Summer Baker,2.51,Spanish
 15,Lisa Chen,2.05,Art
-93,Dr. Jonathan Cook,1.39,History
+93,Jonathan Cook,1.39,History
 68,Lisa Lewis,3.08,Philosophy
 38,Eric Myers,1.39,Mathematics
 26,Julie Stuart,1.03,Physics
@@ -66,9 +66,9 @@
 49,Judy Hunt,1.51,English
 83,Phyllis Johnson,2.03,Biology
 46,Daniel Benson,3.75,Spanish
-99,Mrs. Mary Sampson MD,3.43,Art
+99,Mary Sampson,3.43,Art
 88,Karen Davies,2.27,History
-80,Carrie Trujillo MD,1.44,Theatre
+80,Carrie Trujillo ,1.44,Theatre
 58,Renee Austin,2.60,Business
 67,Jennifer Bray,2.48,Chemistry
 52,Melissa Hancock,2.79,English
@@ -97,9 +97,5 @@
 41,Brenda Valentine,3.10,Physics
 86,Grace Hoffman,1.30,Chemistry
 10,Joshua Ware,3.29,English
-61,Ms. Samantha Steele,2.56,Spanish
+61,Samantha Steele,2.56,Spanish
 22,Lisa Chen,1.45,Art
-96,Jamie Knight,1.65,Business
-95,Karen Williams,1.16,Business
-80,Carrie Trujillo MD,1.44,Theatre
-58,Renee Austin,2.60,Business
