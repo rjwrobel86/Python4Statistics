@@ -2,12 +2,12 @@
 17,Alexandra Green,Yes,20000,5180
 18,Alexandra Green,No,30000,7087
 81,Angela Mora,Yes,20000,12031
-57,Angela Oneill DDS,Yes,20000,7064
+57,Angela Oneill,Yes,20000,7064
 2,Anthony Martinez,Yes,20000,6479
 8,Barbara Tran,Yes,20000,9076
 41,Brenda Valentine,No,30000,9915
 40,Brittany Jones,Yes,20000,14916
-80,Carrie Trujillo MD,Yes,20000,5444
+80,Carrie Trujillo,Yes,20000,5444
 45,Chase Sanders,No,30000,5594
 5,Chelsea Flores,Yes,20000,9534
 59,Christina Irwin,No,30000,13709
@@ -24,14 +24,15 @@
 20,Diane Brown,No,30000,11660
 91,Donald Ayala,Yes,20000,9745
 98,Donald Blevins,Yes,20000,12147
-93,Dr. Jonathan Cook,Yes,20000,8386
+93,Jonathan Cook,Yes,20000,8386
 4,Eric Ellis,No,30000,12978
 34,Eric Moore,Yes,20000,10785
 38,Eric Myers,Yes,20000,7008
 86,Grace Hoffman,No,30000,12102
 55,Ian Brown,Yes,20000,6977
+55,Ian Brown,Yes,20000,6977
 64,Jacob Martinez,Yes,20000,14655
-51,James Tran MD,Yes,20000,5369
+51,James Tran,Yes,20000,5369
 96,Jamie Knight,No,30000,9843
 67,Jennifer Bray,Yes,20000,6742
 47,Jennifer Perkins,Yes,20000,14608
@@ -73,8 +74,8 @@
 52,Melissa Hancock,Yes,20000,11960
 48,Melissa Lewis,Yes,20000,11571
 94,Michael Miller,No,30000,13234
-99,Mrs. Mary Sampson MD,Yes,20000,8653
-61,Ms. Samantha Steele,No,30000,13103
+99,Mary Sampson ,Yes,20000,8653
+61,Samantha Steele,No,30000,13103
 1,Nicole Allen,Yes,20000,9677
 39,Patrick Thomas,Yes,20000,12634
 82,Peter Hansen,No,30000,7489
